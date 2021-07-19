@@ -75,6 +75,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="AddFiles\branch_class.js" />
     <Content Include="AddFiles\branch_function.js" />
     <Content Include="AddFiles\function.js" />
   </ItemGroup>
