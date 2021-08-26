@@ -14,8 +14,11 @@ namespace MasterApp
         public Form1()
         {
             InitializeComponent();
+        }
 
-            MessageBox.Show("main");
+        public void func1()
+        {
+
         }
     }
 }
