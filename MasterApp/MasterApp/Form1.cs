@@ -35,5 +35,10 @@ namespace MasterApp
         {
 
         }
+
+        private void SubFunc3()
+        {
+
+        }
     }
 }
