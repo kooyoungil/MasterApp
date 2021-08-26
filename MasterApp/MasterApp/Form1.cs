@@ -20,5 +20,10 @@ namespace MasterApp
         {
 
         }
+
+        public void SubFunc1()
+        {
+
+        }
     }
 }
