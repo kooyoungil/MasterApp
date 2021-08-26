@@ -30,5 +30,10 @@ namespace MasterApp
         {
 
         }
+
+        public void MainFunc3()
+        {
+
+        }
     }
 }
